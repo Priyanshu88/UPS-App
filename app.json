@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "ups-clone",
+    "name": "UPS Clone",
     "slug": "ups-clone",
+    "description": "United Parcel Service - Clone (UPS-Clone, stylized as ups-clone) is an American multinational shipping & receiving and supply chain management company founded in 1907. Originally known as the American Messenger Company specializing in telegraphs, UPS has grown to become a Fortune 500 company and one of the world's largest shipping couriers. UPS today is primarily known for its ground shipping services as well as the UPS Store, a retail chain which assists UPS shipments and provides tools for small businesses. In addition, UPS offers air shipping on an overnight or two-day basis and delivers to post office boxes through UPS SurePost, a subsidiary that passes on packages to the United States Postal Service for last-mile delivery. UPS is the largest courier company in the world by revenue, with annual revenues around US$85 billion in 2020, ahead of competitors DHL and FedEx. UPS' main international hub, UPS Worldport in Louisville, Kentucky, is the fifth busiest airport in the world by cargo traffic based on preliminary statistics from ACI, and the third busiest in the U.S. behind FedEx's Memphis Superhub and Ted Stevens Anchorage International Airport.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ups-logo-tran.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ups-logo-transparent-375.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.priyanshu_pandey.upsclone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
