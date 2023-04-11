@@ -2,7 +2,7 @@
 
   <img src="https://user-images.githubusercontent.com/99184393/210092556-9aba6b25-f11e-46e2-a145-58d47565bff2.png" alt="logo" width="200" height="auto" />
   
-  # UPS 2.0 with REACT NATIVE
+  # UPS-App with REACT NATIVE
   
   <p>
 UPS-App with REACT NATIVE! (TypeScript, Firebase, StepZen & Tailwind CSS with RN, GraphQL backend directly connected to Firebase Realtime database effortlessly with StepZen, React Native Navigation)
