@@ -54,13 +54,34 @@ UPS-App with REACT NATIVE! (TypeScript, Firebase, StepZen & Tailwind CSS with RN
 ### :camera: Screenshots
 
 <div style="display: inline_block" align="center"><br>
- <img align="center" alt="React"  width="180" src="">
-  <img align="center" alt="React"  width="180" src="">
-  <img align="center" alt="React"  width="180" src="">
-    <img align="center" alt="React"  width="180" src="">
+ <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/86107841/231848117-a7c73599-af8c-40c3-8325-0d29347bcbd5.jpg">
+  <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/86107841/231848302-277c1ef1-98ad-4233-8ba7-e46bfabfbd9e.jpg">
+  <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/86107841/231848361-84e9f238-3d2b-409a-95de-962db5fe5c4d.jpg">
+    <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/86107841/231848407-ea64d5a8-c13d-4556-aec4-1014917d99f9.jpg">
 </div>
 
 <br />
+
+### :video_camera: Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P_AyN8RU_PA/0.jpg)](https://www.youtube.com/watch?v=P_AyN8RU_PA)
+</a>
+
+  
+#### 🔴 Install the Expo Go app on your device and scan the code below (live demo)
+
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/86107841/231847120-5702a85f-81d4-4535-886f-9e33a5803022.png" alt="qr" width="200" height="200" /></a>
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
+
+or Enter the below URL manually
+
+```bash
+
+exp://exp.host/@priyanshu_pandey/ups-clone?release-channel=default
+
+```
+
+<br/>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
@@ -127,6 +148,8 @@ UPS-App with REACT NATIVE! (TypeScript, Firebase, StepZen & Tailwind CSS with RN
   </td>
   </tr>
 </table>
+
+
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
@@ -183,7 +206,7 @@ Run the following command to automatically add `tailwind-rn` to your React Nativ
 npx setup-tailwind-rn
 ```
 
-Import TailwindProvider and `tailwind.json` in the root of app (`App.jsx`)
+Import TailwindProvider and `tailwind.json` in the root of app (`App.tsx`)
 
 ```tsx
 import { TailwindProvider } from "tailwind-rn";
@@ -240,11 +263,21 @@ npm run dev:tailwind
 
 ### Setting Up StepZen
 
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
 #### Create an account
 
 - Sign up for a StepZen account <a href='https://stepzen.com'>HERE</a>
 
 #### Running StepZen
+
+Install the CLI
+
+```bash
+
+npm install -g stepzen
+
+```
 
 After installing the CLI, you can connect it to your account.
 
@@ -324,29 +357,29 @@ Other dependencies info
 Clone the project
 
 ```git
-  git clone https://github.com/SashenJayathilaka/UPS-Clone.git
+git clone https://github.com/Priyanshu88/UPS-App.git
 ```
 
 change directory
 
 ```bash
-  cd UPS-Clone
+cd UPS-App
 ```
 
 Install dependencies
 
 ```bash
-  npx expo install
+npx expo install
 ```
 or
 ```
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npx expo start
+npx expo start
 ```
 
 <hr />
@@ -368,7 +401,7 @@ To deploy this project run
 
 #### Expo Publish
 
-![](https://img.shields.io/badge/Expo-02569B?style=for-the-badge&logo=Expo&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 publish your project
 
