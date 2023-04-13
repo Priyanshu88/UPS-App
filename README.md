@@ -5,7 +5,7 @@
   # UPS-App with REACT NATIVE
   
   <p>
-UPS-App with REACT NATIVE! (TypeScript, Firebase, StepZen & Tailwind CSS with RN, GraphQL backend directly connected to Firebase Realtime database effortlessly with StepZen, React Native Navigation)
+This is a delivery tracking app using React-Native for iOS & Android. This is scenerio based build and the JSON data is already given, the GraphQL interface backend of StepZen is directly connected to the Firebase Realtime database and implemented for the app. Tailwind CSS is used for the UI and React Native Elements to style the UI. Custom React Hooks has been also implemented and it has nested navigation to navigate between screens including Nested and Tab Navigators. TypeScript is used with React-Native.
   </p>
   
   
