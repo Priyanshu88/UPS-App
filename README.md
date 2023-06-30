@@ -346,7 +346,7 @@ stepzen start
 
 Other dependencies info
 
-<a href="https://github.com/SashenJayathilaka/UPS-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+<a href="https://github.com/Priyanshu88/UPS-App/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
 
 <!-- Run Locally -->
 
